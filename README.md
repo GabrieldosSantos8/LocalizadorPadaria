@@ -24,8 +24,14 @@ Ao cadastrar uma nova padaria enviando apenas o **Nome** e o **CEP**, a API:
 3. Preenche automaticamente os campos de Logradouro, Bairro, Cidade e UF.
 4. Salva o registo completo no banco de dados local.
 
-## ⚙️ Como Executar Localmente
+##Executar a aplicação
+````bash
+dotnet run
+````
+A API estará disponível em: http://localhost:5000/Swagger ou https://localhost:5001/Swagger
 
+## ⚙️ Como Executar Localmente
+````
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/GabrieldosSantos8/LocalizadorPadaria.git](https://github.com/GabrieldosSantos8/LocalizadorPadaria.git)
