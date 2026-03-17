@@ -30,7 +30,7 @@ dotnet run
 ````
 A API estará disponível em: http://localhost:5000/Swagger ou https://localhost:5001/Swagger
 
-## ⚙️ Como Executar Localmente
+##  Como Executar Localmente
 ````
 1. **Clone o repositório:**
    ```bash
